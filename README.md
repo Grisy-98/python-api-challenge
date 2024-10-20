@@ -47,7 +47,7 @@ Then, another DataFrame, called hotel_df is created to collect the first hotel l
 -Country
 ![image](https://github.com/user-attachments/assets/47396705-0ea5-426b-89c8-588d813c7c54)
 
---
+---
 
 ### Analysis From Part 1
 
